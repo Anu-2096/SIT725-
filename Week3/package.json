@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapping-express",
+  "version": "1.0.0",
+  "description": "This is Week 3 Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anu-2096/SIT725-.git"
+  },
+  "author": "SIT 725 Student",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anu-2096/SIT725-/issues"
+  },
+  "homepage": "https://github.com/Anu-2096/SIT725-#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
